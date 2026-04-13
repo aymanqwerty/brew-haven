@@ -1,0 +1,24 @@
+{
+  "overview": "A modern, elegant, and fully responsive cafe website for Brew Haven — a warm, cozy coffee shop. Features earthy earth-tone design, dark mode, smooth animations, menu browsing, table reservations, and a contact page.",
+  "features": [
+    "4-page site: Home, Menu, About, Contact",
+    "Earthy warm color palette with dark mode toggle",
+    "Hero section with headline and call-to-action buttons",
+    "Featured menu items, customer testimonials, and photo gallery",
+    "Full menu with 5 categories in clean card layout",
+    "Table reservation form with validation",
+    "Contact form with address and opening hours",
+    "Sticky navigation with mobile hamburger menu",
+    "Smooth scrolling and hover animations"
+  ],
+  "category": "hospitality",
+  "tags": [
+    "cafe",
+    "restaurant",
+    "menu",
+    "reservation",
+    "dark-mode",
+    "responsive"
+  ],
+  "last_updated": "2026-04-13T09:05:44.095Z"
+}
